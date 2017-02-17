@@ -1,0 +1,38 @@
+
+
+============= RESOURCES & CREDITS =================
+
+Images: 
+
+- Unsplash ( https://unsplash.com/ )
+
+- Pexels ( https://www.pexels.com/ )
+
+
+PSD Logo Templates & Device Mock Ups:
+
+- Graphic Burger ( http://graphicburger.com/ )
+
+
+JS Libraries:
+
+- WOW.js ( https://github.com/matthieua/WOW )
+
+- jQuery Easing ( http://gsgd.co.uk/sandbox/jquery/easing/ )
+
+- jQuery CountTo ( https://github.com/mhuggins/jquery-countTo )
+
+- jQuery Appear ( https://github.com/bas2k/jquery.appear/ )
+
+- Countdown for jQuery ( http://keith-wood.name/countdown.html )
+
+
+Frameworks:
+
+- Foundation 6 by ZURB ( http://foundation.zurb.com/sites.html )
+
+
+Fonts:
+
+- Google Fonts ( Asap & Roboto )
+- Icomoon Icon Fonts ( https://icomoon.io )
